@@ -1,0 +1,8 @@
+.footer_auto{
+    position: relative;
+    background-color:#6C73CC;
+    color: #FFF;
+	padding-left: 18px;
+    border-radius: 10px;
+    width: 100%;
+}

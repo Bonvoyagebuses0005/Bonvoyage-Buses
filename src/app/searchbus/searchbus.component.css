@@ -1,0 +1,14 @@
+.bookbus{
+    padding: 5%;
+    box-shadow: #6c73cc;
+    text-align: center;
+   
+}
+
+input[type=submit] {
+    background-color: #6c73cc;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
